@@ -1,0 +1,3 @@
+funriture0000 = 0 0 128 128
+funriture0001 = 128 0 128 128
+funriture0002 = 0 128 128 128
